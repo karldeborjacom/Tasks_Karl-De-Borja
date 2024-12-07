@@ -8,11 +8,11 @@ public class Tasksheet112 {
         char w = 'w';
         char r = 'r';
         char d = 'd';
-        char e = 'e';
+        char k = 'k';
         float twoPointZero = 2.0f;
         boolean isTrue = true;
 
-        String output = "" + h + e + three + one + one + zero + " " + w + 0 + r + one + d + " " + twoPointZero + " " + isTrue;
+        String output = "" + h + k + three + one + one + zero + " " + w + 0 + r + one + d + " " + twoPointZero + " " + isTrue;
 
 
         System.out.println(output);
