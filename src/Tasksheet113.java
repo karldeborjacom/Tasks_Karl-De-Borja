@@ -1,4 +1,4 @@
-public class ArithmeticTask {
+public class Tasksheet113 {
     public static void main(String[] args) {
         // Initializing the variable 'result' with the sum of 1 and 2
         int result = 1 + 2; // result is now 3
