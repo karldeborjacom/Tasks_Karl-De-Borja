@@ -17,7 +17,7 @@ public class Tasksheet118 {
                 break;
             }
 
-            // Check if the number is even
+            // Check if the number is even.
             if (num % 2 == 0) {
                 System.out.println(num); // Print even number
             }
