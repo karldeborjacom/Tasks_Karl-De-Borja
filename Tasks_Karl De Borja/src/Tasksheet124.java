@@ -1,4 +1,4 @@
-class Tasksheet124 {
+class Point {
     private double x;
     private double y;
    
