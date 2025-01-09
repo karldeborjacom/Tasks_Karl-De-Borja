@@ -1,5 +1,5 @@
 // Base class: Vehicle
-class Tasksheet125
+class Vehicle
     protected String make;
     protected String model;
     protected int year;
